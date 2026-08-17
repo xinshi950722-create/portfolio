@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e1640"/><stop offset="1" stop-color="#0c0820"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<g fill="none" stroke="#7F77DD" stroke-opacity=".6" stroke-width="2">
+<polygon points="400,160 520,230 520,370 400,440 280,370 280,230"/>
+<path d="M400 160V440M280 230h240M280 370h240M280 230L400 300L520 230M280 370L400 300L520 370"/>
+</g>
+<circle cx="400" cy="300" r="14" fill="#7F77DD" fill-opacity=".5"/>
+<text x="40" y="545" fill="#e8eef5" font-family="sans-serif" font-size="30" font-weight="600">线框研究</text>
+<text x="760" y="80" fill="#7F77DD" font-family="sans-serif" font-size="44" font-weight="600" text-anchor="end">05</text>
+</svg>

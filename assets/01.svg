@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3a44"/><stop offset="1" stop-color="#06202a"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<g stroke="#22d3ee" stroke-opacity=".16" fill="none"><path d="M0 150H800M0 300H800M0 450H800M200 0V600M400 0V600M600 0V600"/></g>
+<circle cx="400" cy="290" r="150" fill="none" stroke="#22d3ee" stroke-opacity=".55" stroke-width="2"/>
+<circle cx="400" cy="290" r="92" fill="none" stroke="#e879f9" stroke-opacity=".5" stroke-width="2"/>
+<path d="M250 290h300" stroke="#22d3ee" stroke-opacity=".4"/>
+<text x="40" y="545" fill="#e8eef5" font-family="sans-serif" font-size="30" font-weight="600">空间叙事</text>
+<text x="760" y="80" fill="#22d3ee" font-family="sans-serif" font-size="44" font-weight="600" text-anchor="end">01</text>
+</svg>
